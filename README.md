@@ -32,9 +32,7 @@
      qui no Ocidente.<BR>
      A partir disso, essa ideia foi levada para os mangás e os animes herdaram a nomenclatura.
     </P>
-    <img class="NARUTO" src="NARUTO.jpg">
-    <img src="Demom slayer.jpg">
- 
+
  
 </body>
 </html>
